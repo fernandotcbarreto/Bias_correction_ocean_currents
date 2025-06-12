@@ -1,0 +1,16 @@
+# ROMS
+
+Codes in Python to perform the bias correction with HF-Radar surface current data for oceanic models.
+
+Created by: Fernando Túlio Camilo Barreto<br />
+
+Any help with the operational system, contact fernandotcbarreto@gmail.com
+<br />
+<br />
+<br />
+<p align="center">
+  <img src="https://github.com/fernandotcbarreto/stuff/blob/main/vst.png">
+</p>
+<p align="center">
+  <img src="https://github.com/fernandotcbarreto/stuff/blob/main/myimage2.gif">
+</p>
