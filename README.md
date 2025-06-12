@@ -1,4 +1,4 @@
-# ROMS
+# BIAS CORRECTION OF MODELLED SURFACE OCEAN CURRENTS
 
 Codes in Python to perform the bias correction with HF-Radar surface current data for oceanic models.
 
